@@ -28,7 +28,7 @@ const drawerWidth = 240;
 const navItems = [
   {id:1,title:"Sklep", href:"/"},
   {id:2,title:"O Nas", href:"/about"},
-  {id:3,title:"Kontakt", href:"/concact"},
+  {id:3,title:"Kontakt", href:"/contact"},
 ]
 
 
